@@ -12,6 +12,3 @@ NOTE: better delete the modules folder before storing
 ---
 
 ## Archive db
-| id | date | name | description |
-|:--:|:--:|:--|:--|
-| 0001 | undefined | domain_scraper | feeble attempt to scrape property info while shopping for a house |
