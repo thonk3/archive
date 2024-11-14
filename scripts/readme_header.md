@@ -10,6 +10,3 @@ Ill add date and folder name to this doc when ever I wanna store something here
 
 ---
 ## Archive db
-| id | date | name | cat | description |
-|:--:|:--:|:--|:--|:--|
-| 0001 | 06 06 2022 | domain_scraper | misc | feeble attempt to scrape property info while shopping for a house |
