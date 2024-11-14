@@ -1,3 +1,18 @@
 [
-    { "id": "0001", "date": "06 06 2022", "name": "domain_scraper", "cat":"misc", "description": "feeble attempt to scrape property info while shopping for a house" }
+    { 
+        "id": 1, 
+        "date": "06 06 2022", 
+        "name": "domain_scraper", 
+        "cat": "misc",
+        "path": "misc/domain_scraper",
+        "description": "feeble attempt to scrape property info while shopping for a house"
+    },
+    { 
+        "id": 2, 
+        "date": "14 11 2024", 
+        "name": "android-till-app", 
+        "cat": "misc",
+        "path": "misc/android-till-app",
+        "description": "android app project for TAFE yonks ago, funny how its still on my phone, is it worth building the APK"
+    }
 ]
