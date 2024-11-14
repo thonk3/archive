@@ -14,5 +14,13 @@
         "cat": "misc",
         "path": "misc/android-till-app",
         "description": "android app project for TAFE yonks ago, funny how its still on my phone, is it worth building the APK"
+    },
+    { 
+        "id": 3, 
+        "date": "14 11 2024", 
+        "name": "TheMachineSpeaks", 
+        "cat": "misc",
+        "path": "misc/TheMachineSpeaks",
+        "description": "UNI summer IOT studio project"
     }
 ]

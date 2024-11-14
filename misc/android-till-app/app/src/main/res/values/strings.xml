@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">TillApp</string>
+    
+    <string name="hint_total">Total</string>
+    <string name="hint_eftpos">EFTPOS</string>
+    <string name="hint_50s_val">50s Value</string>
+    <string name="hint_20s_val">20s Value</string>
+    
+    <string name="lbl_btn_getcash">get cash</string>
+    <string name="lbl_btn_round_final">round/final</string>
+
+    <string name="lbl_cash">Cash</string>
+    <string name="lbl_round_tap">Tap here to see remaining amount</string>
+    <string name="lbl_round_guide">Enter the 50s value first then 20s</string>
+    <string name="lbl_final">Final</string>
+</resources>
+
